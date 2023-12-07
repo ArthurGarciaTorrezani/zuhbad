@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=void\ takeItem(java.lang.String)
+comment2.params=name
+comment2.target=void\ dropItem(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getItems()
+comment4.params=name
+comment4.target=Item\ getItem(java.lang.String)
+comment5.params=name\ item
+comment5.target=void\ setItem(java.lang.String,\ Item)
+comment6.params=description\ weight\ amount\ name
+comment6.target=void\ createItem(java.lang.String,\ int,\ int,\ java.lang.String)
+comment7.params=name\ add
+comment7.target=void\ updateWeight(java.lang.String,\ boolean)
+numComments=8
